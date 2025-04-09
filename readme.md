@@ -2,7 +2,7 @@
 
 [![Integration status](https://app.rollout.io/badges/6711f17bfdb374b67bc66e22)](https://app.rollout.io/app/66fe9bb334863653de479a9b/settings/info)
 
-This repository is a YAML represnetation for Rollout configuration, it is connected (see badge for status) to Rollout service via [Rollout's github app](https://github.com/apps/rollout-io)
+The repository is a YAML represnetation for Rollout configuration, it is connected (see badge for status) to Rollout service via [Rollout's github app](https://github.com/apps/rollout-io)
 Configuration as code allows the entire configuration of Rollout's state to be stored as source code. It integrates Rollout's UI with engineering existing environment. This approach brings a lot of benefits.
 
 # What is Rollout
